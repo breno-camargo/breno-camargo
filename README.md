@@ -31,6 +31,15 @@ Formado em Eletrônica pela ETEC e em Análise e Desenvolvimento de Sistemas pel
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=breno-camargo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/breno-camargo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-camargo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/breno-camargo)
+
+</div>
+
 ## Projeto em destaque
 
 ### [Attendance Scheduler](https://github.com/breno-camargo/attendance-scheduler)
