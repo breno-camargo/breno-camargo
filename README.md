@@ -35,6 +35,9 @@ Formado em Eletrônica pela ETEC e em Análise e Desenvolvimento de Sistemas pel
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats-two-iota-26.vercel.app/api?username=breno-camargo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Languages](https://github-readme-stats-two-iota-26.vercel.app/api/top-langs/?username=breno-camargo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=breno-camargo&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 </div>
