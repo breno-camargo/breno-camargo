@@ -50,7 +50,7 @@ Atuo com manutenção de sistemas prediais e desenvolvo soluções web para otim
 
 ### Projeto em destaque
 
-[![Attendance Scheduler](https://github-readme-stats-two-iota-26.vercel.app/api/pin/?username=breno-camargo&repo=attendance-scheduler&theme=tokyonight&hide_border=true&locale=pt-br)](https://github.com/breno-camargo/attendance-scheduler)
+[![Attendance Scheduler](https://github-readme-stats-two-iota-26.vercel.app/api/pin/?username=breno-camargo&repo=attendance-scheduler&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=0&v=2)](https://github.com/breno-camargo/attendance-scheduler)
 
 Sistema web que automatiza o agendamento de manutenções preventivas para contratos prediais.
 Substituiu um processo manual em planilhas por geração automática em segundos.
