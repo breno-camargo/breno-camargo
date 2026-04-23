@@ -31,7 +31,7 @@ e em Análise e Desenvolvimento de Sistemas.
 
 [![Attendance Scheduler](https://github-readme-stats-two-iota-26.vercel.app/api/pin/?username=breno-camargo&repo=attendance-scheduler&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=0&v=2)](https://github.com/breno-camargo/attendance-scheduler)
 
-Sistema que automatiza o agendamento de manutenções preventivas no trabalho.
+Sistema que automatiza o agendamento de visitas técnicas.
 Substituiu planilhas manuais por geração automática em segundos.
 
 <br/>
